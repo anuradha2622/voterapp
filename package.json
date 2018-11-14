@@ -1,0 +1,20 @@
+{
+  "name": "starter-node-angular",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bower": "^1.8.4",
+    "bson": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "method-override": "~2.0.2",
+    "mongoose": "^5.3.11"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application.",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC"
+}
